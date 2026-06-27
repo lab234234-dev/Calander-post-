@@ -1,0 +1,6 @@
+{
+  "name": "Poster365",
+  "description": "India's Smart Calendar-Based Poster App. Tap any date to get relevant ready-to-use posters of festivals, business marketing, special days, etc. Add your brand logo, name, contacts and share instantly!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
