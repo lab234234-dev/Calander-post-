@@ -8,10 +8,10 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.ui.PosterViewModel
-import com.example.ui.PosterViewModelFactory
-import com.example.ui.screens.MainScreen
-import com.example.ui.theme.MyApplicationTheme
+import com.example.presentation.PosterViewModel
+import com.example.presentation.PosterViewModelFactory
+import com.example.presentation.screens.MainScreen
+import com.example.presentation.theme.MyApplicationTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
